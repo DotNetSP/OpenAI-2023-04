@@ -9,8 +9,17 @@ Organizadores:
 
 Número de participantes: **41 pessoas**
 
-Apresentações que aconteceram durante o evento:
+Apresentações/talks que aconteceram durante o evento:
 * **GitHub Copilot: produtividade na implementação de código - Renato Groffe (Microsoft MVP, MTAC)**
+
+* **Painel: Limites éticos e impacto em empregos trazidos pela Inteligência Artificial**
+    
+    Participantes:
+    - Henrique Eduardo Souza (Microsoft MVP) - Moderador
+    - Renato Groffe (Microsoft MVP, MTAC)
+    - Diego Moreira Matos (Microsoft MVP)
+    - Milton Camara Gomes (Microsoft MVP, MTAC)
+    - Marcelo Paiva (Microsoft MVP, MTAC)
 
 * **Utilizando o OpenAI GPT para melhorar a interação com seus usuários - Henrique Eduardo Souza (Microsoft MVP)**
 
@@ -29,3 +38,5 @@ Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de
 ![Renato palestrando](img/o-19.jpeg)
 
 ![Henrique palestrando](img/o-32.jpeg)
+
+![Discussão painel](img/o-49.jpeg)
