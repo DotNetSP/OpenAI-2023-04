@@ -27,6 +27,8 @@ Tecnologias abordadas: **GitHub Copilot, ChatGPT, Azure Cognitive Services, Visu
 
 Clique [**aqui**](/slides/) para acessar os slides utilizados nas palestras.
 
+Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
+
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
 
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/chatgpt-e-github-copilot-produtividade-na-implementacao-de-codigo-gratuito-e-presencial/1925171)
