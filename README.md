@@ -9,9 +9,9 @@ Organizadores:
 Número de participantes: **41 pessoas**
 
 Apresentações que aconteceram durante o evento:
-* Utilizando o OpenAI GPT para melhorar a interação com seus usuários - Renato Groffe (Microsoft MVP, MTAC)
+* **GitHub Copilot: produtividade na implementação de código - Renato Groffe (Microsoft MVP, MTAC)**
 
-* Utilizando o OpenAI GPT para melhorar a interação com seus usuários - Henrique Eduardo Souza (Microsoft MVP)
+* **Utilizando o OpenAI GPT para melhorar a interação com seus usuários - Henrique Eduardo Souza (Microsoft MVP)**
 
 Tecnologias abordadas: **GitHub Copilot, ChatGPT, Azure Cognitive Services, Visual Studio Code, .NET 7, ASP.NET Core, SQL Server, PowerShell, Python, Kubernetes**
 
