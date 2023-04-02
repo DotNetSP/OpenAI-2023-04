@@ -4,6 +4,7 @@ Fotos e informações gerais sobre o evento **ChatGPT e GitHub Copilot: produtiv
 Organizadores:
 - **Renato Groffe (Microsoft MVP, MTAC)**
 - **Atila Olivi (SENAI)**
+- **Alexandre Vieira (SENAI)**
 - **Henrique Eduardo Souza (Microsoft MVP)**
 
 Número de participantes: **41 pessoas**
